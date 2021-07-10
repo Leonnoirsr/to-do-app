@@ -1,0 +1,10 @@
+- Simple To Do App
+By Leon Huggins
+February 27th, 2021
+
+Languages used: HTML, CSS, JS
+
+Description : A minimally designed application that allows the user to build a list of tasks.
+The tasks are stored in list format as an 'Li' in the HTML document. The 'Li' is created using
+the value inputed by the user via Javascript. The styling is minimal using the embedded Css.
+No frameworks were used creating this application.
